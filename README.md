@@ -7,3 +7,6 @@ This change was made using GitHub Desktop and VS Code.
 
 This change was made from my computer.
 I am learning Git step by step.
+## Git Bash Test
+
+Checking file changes using git status.
